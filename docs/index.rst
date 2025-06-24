@@ -15,7 +15,7 @@ How to Contact Pogo Customer Service?
 Sometimes, all you want to do is relax with your favorite game, but something goes wrong—maybe your screen freezes, 
 your tokens vanish, or your **pogo login account** just won’t let you in. 😩
 
-.. image:: start.png
+.. image:: service-now.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
